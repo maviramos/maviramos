@@ -1,10 +1,9 @@
 # README.md
 
 ## 🖥 Tecnologias
-![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-
+![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
 ## 🛠 Ferramentas
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git)
