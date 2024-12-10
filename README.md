@@ -11,9 +11,8 @@
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git)
 
 ## ✍ Blog
-Confira o meu blog para artigos sobre desenvolvimento e outras tecnologias:
 
-[Visite meu Blog](http://maviramos.pythonanywhere.com/)
+[Visite meu Blog Literário](http://maviramos.pythonanywhere.com/)
 
 ## 📫 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitória%20Alencar-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vit%C3%B3ria-alencar-a2b11930a)
