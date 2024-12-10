@@ -9,7 +9,6 @@
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=white&background=000000)
 
 ## ✍ Blog
-## ✍ Blog
 
 [Visite meu Blog Literário](http://maviramos.pythonanywhere.com/)
 
