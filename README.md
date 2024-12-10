@@ -12,7 +12,8 @@
 
 ## Blog
 
-[Confira o meu blog literário](https://seu-blog-link-aqui.com)
+[Visite meu Blog Literário](http://maviramos.pythonanywhere.com/)
 
 ## Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitória%20Alencar-0077
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitória%20Alencar-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vit%C3%B3ria-alencar-a2b11930a)
+[![Email](https://img.shields.io/badge/Email-vitoriamariaifc%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:vitoriamariaifc@gmail.com)
