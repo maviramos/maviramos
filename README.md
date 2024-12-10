@@ -10,6 +10,10 @@
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git)
 
+## Blog
+Você pode acessar o meu blog para mais artigos sobre desenvolvimento, programação e tecnologia através do link abaixo:
+
+[Visite meu Blog](https://seu-blog-link-aqui.com)
+
 ## Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitória%20Alencar-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vit%C3%B3ria-alencar-a2b11930a)
-[![Email](https://img.shields.io/badge/Email-vitoriamariaifc%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:vitoriamariaifc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitória%20Alencar-0077
